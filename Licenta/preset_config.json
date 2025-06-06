@@ -1,0 +1,138 @@
+{
+    "profiles": {
+        "aaaab": {
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": []
+                },
+                {
+                    "name": "D:\\",
+                    "children": [
+                        {
+                            "name": "EA",
+                            "children": []
+                        },
+                        {
+                            "name": "Licenta",
+                            "children": []
+                        },
+                        {
+                            "name": "LOL",
+                            "children": []
+                        },
+                        {
+                            "name": "MalwareBytes",
+                            "children": []
+                        },
+                        {
+                            "name": "Metin2",
+                            "children": []
+                        },
+                        {
+                            "name": "Steam",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ],
+            "apps": {},
+            "optimizations": [
+                "Remove Cortana",
+                "Disable Telemetry",
+                "Uninstall Default Apps"
+            ]
+        },
+        "aaacc": {
+            "folders": [
+                {
+                    "name": "C:\\",
+                    "children": []
+                },
+                {
+                    "name": "D:\\",
+                    "children": [
+                        {
+                            "name": "EA",
+                            "children": []
+                        },
+                        {
+                            "name": "Licenta",
+                            "children": []
+                        },
+                        {
+                            "name": "LOL",
+                            "children": []
+                        },
+                        {
+                            "name": "MalwareBytes",
+                            "children": []
+                        },
+                        {
+                            "name": "Metin2",
+                            "children": []
+                        },
+                        {
+                            "name": "Steam",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "E:\\",
+                    "children": []
+                }
+            ],
+            "apps": {},
+            "optimizations": []
+        }
+    },
+    "apps_structure": [
+        {
+            "name": "C:\\",
+            "children": []
+        },
+        {
+            "name": "D:\\",
+            "children": [
+                {
+                    "name": "EA",
+                    "children": []
+                },
+                {
+                    "name": "Licenta",
+                    "children": []
+                },
+                {
+                    "name": "LOL",
+                    "children": []
+                },
+                {
+                    "name": "MalwareBytes",
+                    "children": []
+                },
+                {
+                    "name": "Metin2",
+                    "children": []
+                },
+                {
+                    "name": "Steam",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "E:\\",
+            "children": []
+        }
+    ],
+    "apps_global": {
+        "Steam (steam)": "D:\\EA",
+        "Mozilla Firefox (Firefox)": "D:\\EA",
+        "Google Chrome (GoogleChrome)": "D:\\EA"
+    }
+}
